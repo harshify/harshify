@@ -1,8 +1,17 @@
 
 <div align="center">
- <h1> Hi, I'm Harsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1> Hi, I'm Harsh... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=harshify alt=harshify> </p>
+<div align="center">
+ <img src=https://komarev.com/ghpvc/?username=harshify alt=harshify>
+ <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify/harshify" alt="Stars Badge"/></a>
+<a href="https://github.com/harshify/harshify/network/members"><img src="https://img.shields.io/github/forks/harshify/harshify" alt="Forks Badge"/></a>
+<a href="https://github.com/harshify/harshify/pulls"><img src="https://img.shields.io/github/issues-pr/harshify/harshify?color=blue" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/harshify/harshify/issues"><img src="https://img.shields.io/github/issues/harshify/harshify?color=blue" alt="Issues Badge"/></a>
+<a href="https://github.com/harshify/harshify/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshify/harshify?color=blue"></a>
+<a href="https://github.com/harshify/harshify/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harshify/harshify?color=blue" alt="License Badge"/></a>
+</div>
+<br>
 
 **🔭 I’m currently working on my <b>Portfolio Website</b> <br>
 **🌱 I’m currently learning Full-Stack Development**
