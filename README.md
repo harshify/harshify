@@ -36,7 +36,19 @@
 </a></code>
 <br>
 <br>
-![My Github stats](https://github-readme-stats.vercel.app/api?username=harshify&show_icons=true&hide_border=true)
+<details>
+<p align="center">
+  <a href="https://github.com/harshify">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=ayu_mirage" />
+  </a>
+  <a href="https://github.com/harshify">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&hide_border=true&card_width=338&theme=ayu_mirage" />
+  </a>
+  <a href="https://github.com/harshify">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshify&theme=ayu_mirage" />
+  </a>
+</p>
+</details>
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
