@@ -78,9 +78,11 @@
     <img align="left" alt="Harsh | CodeChef" width="26px" src="https://github.com/harshify/harshify/blob/main/codechef-svgrepo-com.svg" />
   </a>
   <a href="" target="_blank">
-    <img align="left" alt="Harsh | leetcode" width="26px" src="" />
+    <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
   </a>
-
+ <a href="" target="_blank">
+    <img align="left" alt="Harsh | GFG" width="70px" src="https://github.com/harshify/harshify/blob/main/gfg.svg" />
+  </a>
 <!--
 **Visitor Count :**
 <br>
