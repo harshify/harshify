@@ -48,7 +48,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshify&theme=ayu_mirage" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=ayu_mirage" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshify&theme=ayu_mirage" />
   </a>
  
  </p>
@@ -77,8 +77,9 @@
   <a href="" target="_blank">
     <img align="left" alt="Harsh | CodeChef" width="26px" src="https://github.com/harshify/harshify/blob/main/codechef-svgrepo-com.svg" />
   </a>
- 
-
+  <a href="" target="_blank">
+    <img align="left" alt="Harsh | leetcode" width="26px" src="" />
+  </a>
 
 <!--
 **Visitor Count :**
