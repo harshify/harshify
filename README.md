@@ -12,7 +12,7 @@
 <a href="https://github.com/harshify/harshify/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harshify/harshify?color=blue" alt="License Badge"/></a>
 </div>
 <br>
-
+**💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
 **🔭 I’m currently working on my <b>Portfolio Website</b> <br>
 **🌱 I’m currently learning Full-Stack Development**
 <br>
@@ -56,17 +56,25 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/harsh-raj-mishra-18ba1322b/" target="_blank">
-   <img align="left" alt="Harsh | Linkedin" width="24px" src="https://github.com/harshify/harshify/blob/main/Linkedin.svg" />
+   <img align="left" alt="Harsh | Linkedin" width="26px" src="https://github.com/harshify/harshify/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:harsh0906raj@gmail.com" target="_blank">
     <img align="left" alt="Harsh | Gmail" width="26px" src="https://github.com/harshify/harshify/blob/main/Gmail.svg" />
   </a>
   <a href="" target="_blank">
-    <img align="left" alt="Harsh | Instagram" width="24px" src="https://github.com/harshify/harshify/blob/main/Instagram.svg"  />
+    <img align="left" alt="Harsh | Instagram" width="26px" src="https://github.com/harshify/harshify/blob/main/Instagram.svg"  />
   </a>
   <a href="" target="_blank">
     <img align="left" alt="Harsh | Twitter" width="26px" src="https://github.com/harshify/harshify/blob/main/Twitter.svg" />
   </a>
+  <a href="" target="_blank">
+    <img align="left" alt="Harsh | Youtube" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  </a>
+  <a href="" target="_blank">
+    <img align="left" alt="Harsh | CodeChef" width="26px" src="" />
+  </a>
+ 
+
 
 <!--
 **Visitor Count :**
