@@ -47,7 +47,11 @@
   <a href="https://github.com/harshify">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshify&theme=ayu_mirage" />
   </a>
-</p>
+ <a href="https://github.com/harshify">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=ayu_mirage" />
+  </a>
+ 
+ </p>
 </details>
 <br>
 <br>
@@ -71,7 +75,7 @@
     <img align="left" alt="Harsh | Youtube" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
   </a>
   <a href="" target="_blank">
-    <img align="left" alt="Harsh | CodeChef" width="26px" src="" />
+    <img align="left" alt="Harsh | CodeChef" width="26px" src="https://github.com/harshify/harshify/blob/main/codechef-svgrepo-com.svg" />
   </a>
  
 
