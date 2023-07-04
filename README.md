@@ -42,13 +42,13 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=transparent" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshify&show_icons=true&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=harshify&show_icons=true&theme=transparent" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezraul&layout=compact&theme=transparent&langs_count=20" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
   </a>
  
  </p>
@@ -92,5 +92,6 @@
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=true&hide_border=true&theme=ayu_mirage
+&hide_border=true
 -->
 
