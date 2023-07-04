@@ -80,7 +80,7 @@
   <a href="" target="_blank">
     <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
   </a>
- <a href="" target="_blank">
+ <a href="https://auth.geeksforgeeks.org/user/harsh96" target="_blank">
     <img align="left" alt="Harsh | GFG" width="26px" src="https://github.com/harshify/harshify/blob/main/gfg.svg" />
   </a>
 <!--
