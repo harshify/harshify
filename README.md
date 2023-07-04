@@ -39,16 +39,16 @@
 <details>
 <p align="center">
   <a href="https://github.com/harshify">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=ayu_mirage" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=transparent" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&hide_border=true&card_width=338&theme=ayu_mirage" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshify&theme=ayu_mirage" />
+   --> <img src="https://github-readme-stats.vercel.app/api?username=harshify&show_icons=true&hide_border=true&theme=transparent" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshify&theme=ayu_mirage" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshify&theme=transparent" />
   </a>
  
  </p>
@@ -91,5 +91,6 @@
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=true&hide_border=true&theme=ayu_mirage
 -->
 
