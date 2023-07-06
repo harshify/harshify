@@ -4,7 +4,7 @@
 </div>
 <div align="center">
  <img src=https://komarev.com/ghpvc/?username=harshify alt=harshify>
- <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify/harshify" alt="Stars Badge"/></a>
+ <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify" alt="Stars Badge"/></a>
 <a href="https://github.com/harshify/harshify/network/members"><img src="https://img.shields.io/github/forks/harshify/harshify" alt="Forks Badge"/></a>
 <a href="https://github.com/harshify/harshify/pulls"><img src="https://img.shields.io/github/issues-pr/harshify/harshify?color=blue" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/harshify/harshify/issues"><img src="https://img.shields.io/github/issues/harshify/harshify?color=blue" alt="Issues Badge"/></a>
