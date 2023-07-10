@@ -49,8 +49,8 @@
 </details>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+**💬 Ask me about anything, I'll be happy to help! ** <br>
+**💬 My inbox is always open, Contact me. **
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/harsh-raj-mishra-18ba1322b/" target="_blank">
