@@ -60,9 +60,6 @@
     <img align="left" alt="Harsh | Gmail" width="26px" src="https://github.com/harshify/harshify/blob/main/Gmail.svg" />
   </a>
   <a href="" target="_blank">
-    <img align="left" alt="Harsh | Instagram" width="26px" src="https://github.com/harshify/harshify/blob/main/Instagram.svg"  />
-  </a>
-  <a href="" target="_blank">
     <img align="left" alt="Harsh | Twitter" width="26px" src="https://github.com/harshify/harshify/blob/main/Twitter.svg" />
   </a>
   <a href="" target="_blank">
