@@ -31,6 +31,7 @@
 <br>
 <br>
 <details>
+ <summary>Click for GitHub Stats</summary>
 <p align="center">
   <a href="https://github.com/harshify">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=transparent" />
@@ -47,6 +48,7 @@
  
  </p>
 </details>
+
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help! ** <br>
