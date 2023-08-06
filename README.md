@@ -47,7 +47,6 @@
  <a href="https://github.com/harshify">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
   </a>
- 
  </p>
 </details>
 
@@ -76,7 +75,6 @@
     <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
   </a>
 <!--
-**Visitor Count :**
 <br>
 <a href="">
 ![Visitor Count](https://profile-counter.glitch.me/{}/count.svg) 
@@ -91,5 +89,9 @@ https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=tr
 <a href="https://github.com/harshify/harshify/issues"><img src="https://img.shields.io/github/issues/harshify/harshify?color=blue" alt="Issues Badge"/></a>
 <a href="https://github.com/harshify/harshify/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshify/harshify?color=blue"></a>
 <a href="https://github.com/harshify/harshify/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harshify/harshify?color=blue" alt="License Badge"/></a>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/harshify/count.svg" />
+</p>
 -->
 
