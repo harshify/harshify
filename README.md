@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=harshify%20🤖&width=1000&height=140)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=harshify%20🤖&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
  <h1> Hi, I'm Harsh... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
