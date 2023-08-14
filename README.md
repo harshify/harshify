@@ -32,7 +32,7 @@
 </a></code>
 <br>
 <br>
-<details>
+
  <summary>Click for GitHub Stats</summary>
 <p align="center">
   <a href="https://github.com/harshify">
@@ -42,13 +42,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshify&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.zohan.tech/api?username=harshify&show_icons=true&theme=transparent" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
   </a>
  </p>
-</details>
+
 
 <br>
 <br>
