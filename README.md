@@ -35,17 +35,17 @@
 
  <h4>:zap: GitHub Stats :zap:</h4>
 <p align="center">
-  <a href="https://github.com/harshify">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=transparent" />
   </a>
-  <a href="https://github.com/harshify">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats.zohan.tech/api?username=harshify&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshify&show_icons=true&theme=transparent&rank_icon=percentile" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
   </a>
  </p>
 
