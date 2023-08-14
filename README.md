@@ -33,7 +33,7 @@
 <br>
 <br>
 
- <summary>Click for GitHub Stats</summary>
+ <h4>:zap: GitHub Stats :zap:</h4>
 <p align="center">
   <a href="https://github.com/harshify">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=transparent" />
