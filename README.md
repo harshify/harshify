@@ -71,9 +71,11 @@
   <a href="" target="_blank">
     <img align="left" alt="Harsh | CodeChef" width="26px" src="https://github.com/harshify/harshify/blob/main/codechef-svgrepo-com.svg" />
   </a>
+  <!--
   <a href="https://leetcode.com/harsh964/" target="_blank">
     <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
   </a>
+  -->
 <!--
 <br>
 <a href="">
