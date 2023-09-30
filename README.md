@@ -1,10 +1,7 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20developer;Java%20Developer;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&color=bbfcef&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Harsh...👋;Full-Stack%20Web%20developer;Java%20Developer;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&color=bbfcef&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
-<div align="center">
- <h1> Hi, I'm Harsh... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-</div>
 <div align="center">
  <img src=https://komarev.com/ghpvc/?username=harshify alt=harshify>
  <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify" alt="Stars Badge"/></a>
