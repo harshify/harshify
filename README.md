@@ -90,7 +90,7 @@ https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=tr
 <a href="https://github.com/harshify/harshify/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harshify/harshify?color=blue" alt="License Badge"/></a>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/harshify/count.svg" />
+
 </p>
 -->
 
