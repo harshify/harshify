@@ -74,7 +74,8 @@
     <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
   </a>
   <a href="https://dev.to/harshify" target="_blank">
-    <img align="left" alt="Harsh | Dev" width="25px" src="https://github.com/harshify/harshify/blob/main/dev.svg" />
+    <img align="left" alt="Harsh | Dev" width="32px" src="https://img.icons8.com/windows/32/227E7C/dev.png" />
+<!--     <img align="left" alt="Harsh | Dev" width="25px" src="https://github.com/harshify/harshify/blob/main/dev.svg" /> -->
   </a>
 <!--
 <br>
