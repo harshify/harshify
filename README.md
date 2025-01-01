@@ -37,7 +37,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=transparent" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&card_width=338&theme=transparent" />
+    <img src="https://streak-stats.demolab.com?user=harshify&theme=transparent&card_width=338" />
   </a>
   <a href="https://github.com/harshify">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshify&show_icons=true&theme=transparent&rank_icon=percentile" />
