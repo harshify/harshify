@@ -9,7 +9,7 @@
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
 **🔭 I’m currently working on my <b>Portfolio Website</b> <br>
-**🌱 I’m currently learning Full-Stack Development**
+🌱 I’m currently learning Full-Stack Development
 <br>
 <br>
 ✨ Tech stacks currently using <br>
