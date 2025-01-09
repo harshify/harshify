@@ -22,7 +22,7 @@
 <br>
 <br>
 <br>
-**🌱 Looking forward to learn:** <br>
+🌱 Looking forward to learn: <br>
 <br>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
