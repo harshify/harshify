@@ -5,6 +5,12 @@
 <div align="center"> 
  <img src=https://komarev.com/ghpvc/?username=harshify&abbreviated=true>
  <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify" alt="Stars Badge"/></a>
+  
+<a href="https://github.com/harshify/harshify/network/members"><img src="https://img.shields.io/github/forks/harshify/harshify" alt="Forks Badge"/></a>
+<a href="https://github.com/harshify/harshify/pulls"><img src="https://img.shields.io/github/issues-pr/harshify/harshify?color=blue" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/harshify/harshify/issues"><img src="https://img.shields.io/github/issues/harshify/harshify?color=blue" alt="Issues Badge"/></a>
+<a href="https://github.com/harshify/harshify/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshify/harshify?color=blue"></a>
+<a href="https://github.com/harshify/harshify/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harshify/harshify?color=blue" alt="License Badge"/></a>
 </div>
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
