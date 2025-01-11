@@ -3,6 +3,7 @@
 </p>
 
 <div align="center"> 
+  
  <img src=https://komarev.com/ghpvc/?username=harshify&abbreviated=true>
  <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify" alt="Stars Badge"/></a>
   
