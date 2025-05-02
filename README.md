@@ -1,16 +1,18 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Harsh...👋;Full-Stack%20Web%20developer;Python%20Developer;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&vCenter=true&size=22&pause=1000&width=575&duration=4000"></a>
 </p>
-
+<!--
 <div align="center"> 
  <img src=https://komarev.com/ghpvc/?username=harshify&abbreviated=true>
  <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify" alt="Stars Badge"/></a>
-  
-<a href="https://github.com/harshify/harshify/network/members"><img src="https://img.shields.io/github/forks/harshify/harshify" alt="Forks Badge"/></a>
-<a href="https://github.com/harshify/harshify/pulls"><img src="https://img.shields.io/github/issues-pr/harshify/harshify?color=blue" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/harshify/harshify/issues"><img src="https://img.shields.io/github/issues/harshify/harshify?color=blue" alt="Issues Badge"/></a>
-<a href="https://github.com/harshify/harshify/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshify/harshify?color=blue"></a>
+  -->
+  <!--
+<a href="https://github.com/harshify/harshify/network/members"><img src="https://img.shields.io/github/forks/harshify" alt="Forks Badge"/></a>
+<a href="https://github.com/harshify/harshify/pulls"><img src="https://img.shields.io/github/issues-pr/harshify?color=blue" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/harshify/harshify/issues"><img src="https://img.shields.io/github/issues/harshify?color=blue" alt="Issues Badge"/></a>
+<a href="https://github.com/harshify/harshify/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshify?color=blue"></a>
 </div>
+-->
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
 🔭 I’m currently working on my <b>Portfolio Website</b> <br>
