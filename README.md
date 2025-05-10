@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshify</h1>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 
 <p align="center">
   A passionate developer with a curiosity-driven mindset, building tools and projects that solve real-world problems.
@@ -38,7 +38,33 @@
 
 ## 💻 Tech Stack & Tools I Use
 
+#### 💻 Languages & Frontend
+<p>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" />
+</p>
 
+#### 🧠 Backend & Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40" />
+</p>
+
+#### ☁️ Currently Exploring
+<p>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="40" />
+</p>
+
+---
 
 ## GitHub Stats :zap:
 
@@ -75,11 +101,28 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/harshify">
-    <img src="https://img.shields.io/badge/GitHub-harshify-181717?style=flat&logo=github" />
+💬 Ask me about anything, I'll be happy to help! <br>
+💬 My inbox is always open, Contact me in any of these i'm always there.
+<br>
+<br> 
+  <a href="https://www.linkedin.com/in/harsh-raj-mishra-18ba1322b/" target="_blank">
+   <img align="left" alt="Harsh | Linkedin" width="26px" src="https://github.com/harshify/harshify/blob/main/Linkedin.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/harshify/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshify-blue?style=flat&logo=linkedin" />
+  <a href="mailto:harsh0906raj@gmail.com" target="_blank">
+    <img align="left" alt="Harsh | Gmail" width="26px" src="https://github.com/harshify/harshify/blob/main/Gmail.svg" />
   </a>
-</p>
+  <a href="" target="_blank">
+    <img align="left" alt="Harsh | Twitter" width="26px" src="https://github.com/harshify/harshify/blob/main/Twitter.svg" />
+  </a>
+  <a href="" target="_blank">
+    <img align="left" alt="Harsh | Youtube" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  </a>
+  <a href="" target="_blank">
+    <img align="left" alt="Harsh | CodeChef" width="26px" src="https://github.com/harshify/harshify/blob/main/codechef-svgrepo-com.svg" />
+  </a>
+  <a href="https://leetcode.com/harsh964/" target="_blank">
+    <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
+  </a>
+  <a href="https://dev.to/harshify" target="_blank">
+    <img align="left" alt="Harsh | Dev" width="32px" src="https://img.icons8.com/windows/32/227E7C/dev.png" />
+  </a>
