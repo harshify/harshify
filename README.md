@@ -8,7 +8,7 @@
 
 ## 👤 Who Am I?
 
-- 💻 Final-year Computer Science student  
+- 💻 A Final-year Computer Science student  
 - 🔧 Passionate about open-source, product design & building cool side projects  
 - 🧠 Always learning something new — currently exploring **AI**, **DevTools**, and **automation**  
 - 💬 Ask me about anything related to **web dev**, **Chrome extensions**, or **creative productivity hacks**  
