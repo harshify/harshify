@@ -182,10 +182,9 @@
     <img src="https://github-readme-stats-fast.vercel.app/api?username=harshify&show_icons=true&theme=github_dark&rank_icon=percentile" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=github_dark&langs_count=10" />
+    <img src="https://github-language-stats-card-main.vercel.app/api/card?username=harshify&theme=dark" />
   </a>
  </p>
-
 </div>
 
 ---
