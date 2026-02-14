@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Harsh&fontSize=50&fontColor=f3f6f4&fontAlign=50&fontAlignY=35&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=Web%20Developer%20%7C%20%20Freelancer%20%7C%20AI%20Enthusiast&descSize=23&descAlign=50&descAlignY=75&color=random"  />
+</div>
 
-<p align="center">
-  A passionate developer with a curiosity-driven mindset, building tools and projects that solve real-world problems.
+<h1>Hi, I'm Harsh</h1>
+
+<p>
+  A developer who likes building smart systems and breaking boring ones.
+  
+  I enjoy projects that mix logic + design + automation
+  If it solves a real problem or looks insanely cool, I’m in.
+
+  Build fast. Think smart. Automate the boring.
 </p>
 
 ---
 
 ## 👤 Who Am I?
 
-- 💻 A Final-year Computer Science student  
+- 💻 A Computer Science graduate  
 - 🔧 Passionate about open-source, product design & building cool side projects  
 - 🧠 Always learning something new — currently exploring **AI**, **DevTools**, and **automation**  
-- 💬 Ask me about anything related to **web dev**, **Chrome extensions**, or **creative productivity hacks**  
+- 💬 Ask me about anything related to **web dev**, or **creative productivity hacks**  
 
 ---
 
@@ -158,9 +167,6 @@
  
 </table>
 
-
----
-
 ## GitHub Stats :zap:
 
 <div align="center">
@@ -173,22 +179,12 @@
     <img src="https://streak-stats.demolab.com?user=harshify&theme=transparent&card_width=338" />
   </a>
   <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshify&show_icons=true&theme=transparent&rank_icon=percentile" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=harshify&show_icons=true&theme=github_dark&rank_icon=percentile" />
   </a>
  <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=github_dark&langs_count=10" />
   </a>
  </p>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=harshify&theme=onestar&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
